@@ -47,7 +47,7 @@ let musicas = [
     artista: "Tz da coronel ft.Borges",
     src: "musicas/Tz da Coro - Mirante ft.Borges.mp3",
     img: "imagens/musica.jpg",
-  },
+  }
   {
     titulo: "seção de cria",
     artista: "Arthurzim",
